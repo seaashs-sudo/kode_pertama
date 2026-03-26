@@ -1,0 +1,12 @@
+-GROOMING KADZU
+    -login
+    -stok bahan groomig
+    -imput pelanggan
+    - masing masing  anabul punya  harga bahan awal dan stok awal 
+    -tombol about 
+    - antrian pesanan
+    -langsung muncul struk pembayaran
+    -pengeluaran per jenis hewan
+    -stok awal dan stok akhir
+    -sampo habis tiap delapan hewan 
+
